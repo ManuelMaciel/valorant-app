@@ -1,11 +1,11 @@
 # Ace
 ![banner](https://imgur.com/vHg4dUe.jpg)
 
-Ace is fan made open-source app to follow new contents in 5v5 fps game VALORANT.
+Valorant App is fan made open-source app to follow new contents in 5v5 fps game VALORANT.
 
 ```
 git clone https://github.com/ManuelMaciel/valorant-app
-cd ace
+cd valorant-app
 npm i
 npm start
 ```
